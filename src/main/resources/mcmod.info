@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "physicsblocks",
+  "name": "Physics Blocks",
+  "description": "Mod about the physics's blocks, for get a most realistic environment.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
+  "authorList": ["luii"],
   "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
