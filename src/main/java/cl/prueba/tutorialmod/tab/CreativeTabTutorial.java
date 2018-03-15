@@ -1,4 +1,4 @@
-package cl.prueba.physicsblocks.tab;
+package cl.prueba.tutorialmod.tab;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.init.Items;

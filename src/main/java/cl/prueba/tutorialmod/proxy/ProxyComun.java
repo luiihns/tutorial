@@ -1,4 +1,4 @@
-package cl.prueba.physicsblocks.proxy;
+package cl.prueba.tutorialmod.proxy;
 
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;

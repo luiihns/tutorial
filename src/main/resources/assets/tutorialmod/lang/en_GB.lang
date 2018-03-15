@@ -1,0 +1,5 @@
+#Creative Tab
+itemGroup.tab_tutorial=Tutorial Tab
+
+#items
+item.tutorial_item.name=Tutorial item
